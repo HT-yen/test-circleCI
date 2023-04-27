@@ -1,1 +1,1 @@
-commit by ssh
+commit by gpg
